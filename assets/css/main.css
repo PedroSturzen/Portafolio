@@ -2060,7 +2060,10 @@ input, select, textarea {
 			top: 0;
 			width: 100%;
 		}
-
+		.ig{
+			font-size: 35px;
+			text-decoration: none !important;
+		}
 		.image.thumb {
 			text-align: center;
 		}
@@ -2073,7 +2076,7 @@ input, select, textarea {
 				border-radius: 0.35em;
 				border: solid 3px rgba(255, 255, 255, 0.5);
 				color: #fff;
-				content: 'View';
+				content: 'Vista Previa';
 				display: inline-block;
 				font-size: 0.8em;
 				font-weight: 400;
