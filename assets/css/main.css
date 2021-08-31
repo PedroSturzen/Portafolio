@@ -2063,6 +2063,7 @@ input, select, textarea {
 		.ig{
 			font-size: 35px;
 			text-decoration: none !important;
+			list-style: none;
 		}
 		.image.thumb {
 			text-align: center;
